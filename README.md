@@ -29,4 +29,4 @@ Paradiso não é apenas um projeto acadêmico, mas uma proposta para preencher u
 Apesar das limitações iniciais, Paradiso estabelece as bases para um sistema promissor, que pode ser aprimorado e expandido futuramente. O projeto reflete a importância da tecnologia na valorização da arte e do entretenimento, trazendo novas possibilidades para profissionais criativos. 🎞️✨
 
 ---
-💡 **Tecnologias utilizadas**: Next.Js, Typescript, Node.Js
+💡 **Tecnologias utilizadas**: Next.Js, Typescript, Node.Js, CSS
