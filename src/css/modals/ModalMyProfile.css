@@ -1,0 +1,104 @@
+
+.cmp-modal-intern-myprofile {
+    background-color: transparent;
+    width: 25%;
+    height: 85%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: auto;
+    border-radius: 10px;
+}
+
+.cmp-modal-myprofile-main{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cmp-modal-myprofile{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 52%, #1C031B 100%);
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding-top: 15px;
+
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.384);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cmp-modal-myprofile-header{
+    background-color: transparent;
+    width: 80%;
+    height: 18%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-bottom: 1px solid white;
+}
+
+.cmp-modal-myprofile-body{
+    background-color: transparent;
+    width: 80%;
+    height: 85%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cmp-modal-myprofile-body .cmp-input{ height: 8%; background-color: #252525; }
+
+.cmp-modal-icon-close-myprofile {
+    background-color: transparent;
+    width: 108%;
+    height: 4%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    margin-left: 10%;
+}
+.cmp-modal-icon-close-myprofile span{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cmp-modal-icon-close-myprofile span:hover,
+.cmp-modal-icon-close-myprofile span:focus { color: brown; text-decoration: none; cursor: pointer; }
+
+.cmp-modal-icon-myprofile-header {
+    background-color: transparent;
+    height: 80%;
+    width: 28%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.cmp-modal-icon-myprofile {
+    color: white;
+    font-size: 280%;
+}

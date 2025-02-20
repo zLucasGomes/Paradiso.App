@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1732241718961,
+    "email": "ana.silva@email.com",
+    "senha": "Ana12345678",
+    "nome": "Ana Silva"
+  },
+  {
+    "id": 1732241745108,
+    "email": "joao.santos@email.com",
+    "senha": "Joao1234",
+    "nome": "João Santos"
+  },
+  {
+    "id": 1732241770167,
+    "email": "maria.oliveira@email.com",
+    "senha": "Maria1234",
+    "nome": "Maria Oliveira"
+  },
+  {
+    "id": 1732241793357,
+    "email": "pedro.costa@email.com",
+    "senha": "Pedro1234",
+    "nome": "Pedro Costa"
+  },
+  {
+    "id": 1732241822987,
+    "email": "julia.ferreira@email.com",
+    "senha": "Julia1234",
+    "nome": "Julia Ferreira"
+  },
+  {
+    "id": 1732241847891,
+    "email": "lucas.almeida@email.com",
+    "senha": "Lucas1234",
+    "nome": "Lucas Almeida"
+  },
+  {
+    "id": 1732241883323,
+    "email": "fernanda.ramos@email.com",
+    "senha": "Fernanda1234",
+    "nome": "Fernanda Ramos"
+  },
+  {
+    "id": 1732241929203,
+    "email": "rafael.lima@email.com",
+    "senha": "Rafael1234",
+    "nome": "Rafael Lima"
+  },
+  {
+    "id": 1732241963235,
+    "email": "larissa.souza@email.com",
+    "senha": "Larissa1234",
+    "nome": "Larissa Souza"
+  },
+  {
+    "id": 1732242002216,
+    "email": "gabriel.martins@email.com",
+    "senha": "Gabriel1234",
+    "nome": "Gabriel Martins"
+  },
+  {
+    "id": 1732242030916,
+    "email": "vanessa.mendes@email.com",
+    "senha": "Vanessa1234",
+    "nome": "Vanessa Mendes"
+  },
+  {
+    "id": 1732242061233,
+    "email": "thiago.rocha@email.com",
+    "senha": "Thiago1234",
+    "nome": "Thiago Rocha"
+  },
+  {
+    "id": 1732242086130,
+    "email": "camila.barbosa@email.com",
+    "senha": "Camila1234",
+    "nome": "Camila Barbosa"
+  },
+  {
+    "id": 1732242115065,
+    "email": "rodrigo.pereira@email.com",
+    "senha": "Rodrigo1234",
+    "nome": "Rodrigo Pereira"
+  },
+  {
+    "id": 1732242141090,
+    "email": "mariana.araujo@email.com",
+    "senha": "Mariana1234",
+    "nome": "Mariana Araujo"
+  }
+]

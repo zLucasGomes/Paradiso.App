@@ -1,0 +1,19 @@
+{
+    "locais": [
+        {
+            "id": 1,
+            "estado": "São Paulo",
+            "cidades": [
+                { "id": 1, "value": "São Vicente" },
+                { "id": 2, "value": "Santos" }
+            ]
+        },
+        {
+            "id": 2,
+            "estado": "Rio de Janeiro",
+            "cidades": [
+                { "id": 1, "value": "Rio de Janeiro" }
+            ]
+        }
+    ]
+}

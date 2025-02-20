@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "nome": "Lucas Gomes Cruz",
+    "email": "zlucasgomescruz@gmail.com",
+    "senha": "123",
+    "area": "Diretor",
+    "estado": "São Paulo",
+    "cidade": "São Vicente",
+    "conteudos": [
+      {
+        "id": 1,
+        "nome": "Meu Filme",
+        "genero": "Drama",
+        "tipo": "Filme",
+        "info": "50min",
+        "sinopse": "Muito texto sobre o Filme",
+        "urls": [
+          "/files/video-content-example.mp4"
+        ],
+        "equipe": [
+          {
+            "id": 2,
+            "nome": "Daniel Souza",
+            "area": "Ator",
+            "email": "daniel@gmail.com"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Meu Roteiro",
+        "genero": "Terror",
+        "tipo": "Roteiro",
+        "info": "155pág",
+        "sinopse": "Muito texto sobre o Roteiro",
+        "urls": [
+          "/files/script-content-example.pdf"
+        ],
+        "equipe": []
+      },
+      {
+        "id": 4,
+        "nome": "Minhas Trilhas",
+        "genero": "Drama",
+        "tipo": "Trilha",
+        "info": "2un",
+        "sinopse": "Muito texto sobre as Trilhas",
+        "urls": [
+          "/files/audio-content-example.ogv"
+        ],
+        "equipe": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Daniel Silva Souza",
+    "email": "daniel@gmail.com",
+    "senha": "321",
+    "area": "Ator",
+    "estado": "São Paulo",
+    "cidade": "Santos",
+    "conteudos": [
+      {
+        "id": 1,
+        "nome": "Minhas Fotos",
+        "genero": "Drama",
+        "tipo": "Foto",
+        "info": "2un",
+        "sinopse": "Muito texto sobre as Fotos",
+        "urls": [
+          "/files/foto-content-example1.png",
+          "/files/foto-content-example2.png",
+          "/files/foto-content-example3.png"
+        ],
+        "equipe": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "prueba",
+    "email": "prueba@gmail.com",
+    "senha": "654",
+    "area": "Ator",
+    "estado": "São Paulo",
+    "cidade": "Santos",
+    "conteudos": []
+  },
+  {
+    "id": 4,
+    "nome": "teste3",
+    "email": "teste@gmail.com",
+    "senha": "456",
+    "area": "Fotógrafo",
+    "estado": "Rio de Janeiro",
+    "cidade": "Rio de Janeiro",
+    "conteudos": []
+  },
+  {
+    "id": 5,
+    "nome": "Prueba2",
+    "email": "prueba2@gmail.com",
+    "senha": "789",
+    "area": "Fotógrafo",
+    "estado": "São Paulo",
+    "cidade": "São Vicente",
+    "conteudos": []
+  }
+]

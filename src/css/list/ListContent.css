@@ -1,0 +1,349 @@
+/* LIST CONTENT */
+
+.cmp-list-content{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    overflow-y: auto;
+}
+
+.cmp-list-content table{
+    width: 100%;
+
+    table-layout:fixed;
+
+    border-collapse: collapse;
+    
+    font-family: 'Akshar', sans-serif;
+    font-size: 100%;
+    letter-spacing: 1px;
+}
+
+.cmp-list-content-header-item{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: left;  
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.8;
+
+    border-bottom: 1px solid white;  
+}
+
+.cmp-list-content-header-icon{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: center;  
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.8;
+
+    border-bottom: 1px solid white;  
+}
+
+.cmp-list-content-item th{
+    background-color: transparent;
+    padding-left: 5px;
+
+    color: white;
+}
+
+.cmp-list-content-item-name{ color: white; }
+
+.cmp-list-content-item-others{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: left;
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.5;
+}
+
+.cmp-list-header-icon{ font-size: 100%; background-color: transparent; }
+.cmp-list-icon{ font-size: 160%; }
+
+.cmp-list-content-item:hover {background-color: #383838; cursor: pointer; }
+.cmp-list-content-item:hover .cmp-list-icon{color: #FF9900; }
+
+
+/* LIST PROFILE CONTENT */
+
+
+.cmp-list-profile-content{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    
+    overflow-y: auto;
+    border: 1px solid white;
+}
+
+.cmp-list-profile-content table{
+    background-color: #181818;
+    width: 100%;
+
+    table-layout:fixed;
+    border-collapse: collapse;
+    
+    font-family: 'Akshar', sans-serif;
+    font-size: 80%;
+    letter-spacing: 1px;
+}
+
+.cmp-list-profile-content-header th{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+
+    text-align: left;  
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.8;
+
+    border-bottom: 1px solid white;  
+}
+
+.cmp-list-profile-content-item th{
+    background-color: transparent;
+    padding-left: 5px;
+
+    color: white;
+}
+
+.cmp-list-profile-content-item{
+    border-bottom: 1px solid black;
+}
+
+.cmp-list-profile-content-item-name{ color: white; }
+
+.cmp-list-profile-content-item-others{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: left;
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.5;
+}
+
+.cmp-list-profile-header-icon{ font-size: 100%; margin-left: 25%; }
+.cmp-list-profile-icon{ font-size: 150%; }
+
+.cmp-list-profile-content-item:hover {background-color: #383838; cursor: pointer; }
+.cmp-list-profile-content-item:hover .cmp-list-icon{color: #FF9900; }
+
+.cmp-list-profile-content-item-selected{
+    border-bottom: 1px solid black;
+}
+
+.cmp-list-profile-content-item-selected th{
+    background-color: transparent;
+    padding-left: 5px;
+
+    color: #FF9900;
+}
+
+.cmp-list-profile-content-item-name-selected{ color: white; }
+
+.cmp-list-profile-content-item-others-selected{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: left;
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.5;
+}
+
+.cmp-list-profile-content-item-selected:hover {background-color: #383838; cursor: pointer; }
+.cmp-list-profile-content-item-selected:hover .cmp-list-icon{color: #FF9900; }
+
+/* LIST TEAM CONTENT */
+
+
+.cmp-list-team-content{
+    background-color: #111111;
+    width: 100%;
+    height: 100%;
+
+    overflow-y: auto;
+    border: 1px solid gray;
+}
+
+.cmp-list-team-content table{
+    background-color: #181818;
+    width: 100%;
+
+    table-layout:fixed;
+    border-collapse: collapse;
+    
+    font-family: 'Akshar', sans-serif;
+    font-size: 80%;
+    letter-spacing: 1px;
+}
+
+.cmp-list-team-content-header th{
+    background-color: transparent;
+
+    text-align: left;  
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.8;
+
+}
+
+.cmp-list-team-content-item{
+    border-bottom: 1px solid black;    
+    padding: 10px;
+}
+
+.cmp-list-team-content-item th{
+    background-color: transparent;
+    padding-left: 5px;
+
+    color: white;
+    
+}
+
+.cmp-list-team-content-item-name{ 
+    color: white; 
+}
+
+.cmp-list-team-content-item-others{
+    background-color: transparent;
+
+    padding: 10px;
+    padding-left: 0px;
+
+    text-align: center;
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.5;
+}
+
+.cmp-list-content-item-info{
+    background-color: transparent;
+
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.5;
+
+    text-align: center;
+}
+
+.cmp-list-team-header-icon{ font-size: 100%; margin-left: 25%; }
+.cmp-list-team-icon{ font-size: 150%; }
+
+.cmp-list-team-content-item:hover {background-color: #383838; cursor: pointer; }
+.cmp-list-team-content-item:hover .cmp-list-icon{color: #FF9900; }
+
+
+/* LIST TRACK CONTENT */
+
+
+.cmp-list-content-track{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    overflow-y: auto;
+}
+
+.cmp-list-content-track table{
+    width: 100%;
+
+    table-layout:fixed;
+
+    border-collapse: collapse;
+    
+    font-family: 'Akshar', sans-serif;
+    font-size: 100%;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+audio {
+    background-color: transparent;
+    width: 103%;    
+    margin-left: -3%;
+}
+
+audio::-webkit-media-controls-enclosure {
+    background-color: transparent;
+}
+
+audio::-webkit-media-controls-play-button {
+    -webkit-appearance: none;
+    margin-right: -4%;
+    color: transparent;
+
+    border-left: 2px solid rgba(128, 128, 128, 0.596);
+}
+
+audio::-webkit-media-controls-current-time-display {
+    color: white;
+    text-shadow: none;
+}
+
+audio::-webkit-media-controls-time-remaining-display {
+    color: white;
+    text-shadow: none;
+}
+  
+.cmp-list-content-track-header th{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: left;  
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.8;
+
+    border-bottom: 1px solid white;  
+}
+
+.cmp-list-content-track-item th{
+    background-color: transparent;
+    padding-left: 5px;
+
+    color: white;
+}
+
+.cmp-list-content-track-item-name{ color: white; }
+
+.cmp-list-content-track-item-others{
+    background-color: transparent;
+
+    padding: 15px;
+    padding-left: 10px;
+
+    text-align: left;
+    letter-spacing: 1px;
+    color: white;
+    opacity: 0.5;
+}
+
+.cmp-list-content-track-item:hover {background-color: #383838; cursor: pointer; }
+.cmp-list-content-track-item:hover .cmp-list-content-track-item-name{color: #FF9900;}
+.cmp-list-content-track-item:hover .cmp-list-icon{color: #FF9900;}

@@ -1,0 +1,302 @@
+
+.cmp-modal-intern-mycontent {
+    background-color: transparent;
+    width: 96%;
+    height: 94%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: auto;
+    border-radius: 10px;
+}
+
+.cmp-modal-mycontent-main{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cmp-modal-mycontent{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 52%, #1C031B 100%);
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cmp-modal-icon-close-mycontent{
+    background-color: transparent;
+    width: 99%;
+    height: 4.5%;
+
+    text-align: right;
+}
+
+.cmp-modal-icon-close-mycontent span{
+    color: white;
+    font-size: 25px; 
+    font-weight: bold;
+}
+
+.cmp-modal-icon-close-mycontent span:hover,
+.cmp-modal-icon-close-mycontent span:focus { color: brown; text-decoration: none; cursor: pointer; }
+
+
+.cmp-modal-mycontent-body{
+    background-color: transparent;
+    width: 100%;
+    height: 95.5%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.cmp-modal-mycontent-create{
+    background-color: transparent;
+    width: 74%;
+    height: 98%;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.cmp-modal-mycontent-create-left{
+    background-color: transparent;
+    width: 50%;
+    height: 100%;
+
+    border-right: 1px solid white;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cmp-modal-mycontent-create-left-information{
+    background-color: transparent;
+    width: 95%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-create-left-information-header{
+    background-color: transparent;
+    width: 50%;
+    height: 10%;
+
+    border-bottom: 1px solid white;
+}
+
+.cmp-modal-mycontent-create-left-information-header .cmp-text-h2{
+    font-size: 150%;
+}
+
+.cmp-modal-mycontent-create-left-information-body{
+    background-color: transparent;
+    width: 80%;
+    height: 75%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-create-left-information-footer{
+    background-color: transparent;
+    width: 95%;
+    height: 20%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cmp-modal-mycontent-create-left-information-footer .cmp-btn{
+    height: 37%;
+}
+
+
+/* ------------------------------------ */
+
+.cmp-modal-mycontent-create-right{
+    background-color: transparent;
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.cmp-modal-mycontent-create-right-file{
+    background-color: transparent;
+    width: 95%;
+    height: 50%;
+
+    margin-top: -2%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-create-right-file-header{
+    background-color: transparent;
+    width: 100%;
+    height: 30%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-create-right-file-header .cmp-text-h2{
+    background-color: transparent;
+    height: 50%;
+    width: 50%;
+
+    border-bottom: 1px solid white;
+}
+
+.cmp-modal-mycontent-create-right-file-body{
+    background-color: #131313;
+    width: 90%;
+    height: 70%;
+
+    border: 1px solid white;
+}
+
+.cmp-modal-mycontent-create-right-group{
+    background-color: transparent;
+    width: 95%;
+    height: 50%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-create-right-group-header{
+    background-color: transparent;
+    width: 100%;
+    height: 30%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-create-right-group-header .cmp-text-h2{
+    background-color: transparent;
+    height: 50%;
+    width: 50%;
+
+    border-bottom: 1px solid white;
+}
+
+.cmp-modal-mycontent-create-right-group-body{
+    background-color: #131313;
+    width: 90%;
+    height: 70%;
+
+    border: 1px solid white;
+}
+
+
+
+/* ------------------------------------ */
+
+.cmp-modal-mycontent-search{
+    background-color: #252525;
+    width: 24%;
+    height: 98%;
+
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px black;
+}
+
+.cmp-modal-mycontent-search-header{
+    background-color: transparent;
+    width: 100%;
+    height: 10%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-search-header-title{
+    background-color: transparent;
+    width: 60%;
+    height: 100%;
+    
+    border-bottom: 1px solid white;
+}
+
+.cmp-modal-mycontent-search-body{
+    background-color: transparent;
+    width: 100%;
+    height: 35%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-search-body-buttons{
+    background-color: transparent;
+    width: 90%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cmp-modal-mycontent-search-body-buttons .cmp-btn{
+    height: 20%;
+    width: 100%;
+}
+
+.cmp-modal-mycontent-search-body-buttons .cmp-input{
+    height: 20%;
+}
+
+.cmp-modal-mycontent-search-footer{
+    background-color: transparent;
+    width: 100%;
+    height: 55%;
+}
+
+.cmp-modal-mycontent-search-footer-list{
+    background-color: transparent;
+    width: 100%;
+    height: 90%;
+}
+.cmp-modal-mycontent-search-footer-list .cmp-list-profile-content{
+    border: none;
+    border-top: 1px solid white;
+
+    font-size: 95%;
+}

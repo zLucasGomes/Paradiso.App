@@ -1,0 +1,125 @@
+.cmp-modal-intern-confirmation {
+    background-color: transparent;
+    width: 30%;
+    height: 30%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin: auto;
+    border-radius: 10px;
+}
+
+.cmp-modal-confirmation-main{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cmp-modal-confirmation{
+    background-color: #181818;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding-top: 15px;
+
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.384);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cmp-modal-icon-close-confirmation {
+    background-color: transparent;
+    width: 100%;
+    height: 15%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    
+}
+.cmp-modal-icon-close-confirmation span{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cmp-modal-icon-close-confirmation span:hover,
+.cmp-modal-icon-close-confirmation span:focus { color: brown; text-decoration: none; cursor: pointer; }
+
+
+
+.cmp-modal-confirmation-body{
+    background-color: transparent;
+    width: 90%;
+    height: 25%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cmp-modal-confirmation-body .cmp-btn{
+    background-color: transparent;
+    height: 85%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cmp-modal-confirmation-body .cmp-btn button{    
+    background-color: #FF9900;
+}
+
+.cmp-modal-confirmation-header{
+    background-color:  transparent;
+    width: 90%;
+    height: 65%;
+}
+
+.cmp-modal-confirmation-header-message-box{
+    background-color: transparent;
+    width: 100%;
+    height: 85%;
+}
+
+.cmp-modal-confirmation-header-message{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cmp-modal-confirmation-header-message .cmp-text-h2{
+    background-color: transparent;
+    width: 100%;
+    height: 20%;
+}
+
+.cmp-modal-confirmation-header-message .cmp-text-h2 h2{
+    font-size: 22px;
+    letter-spacing: 0.5px;
+    font-weight: 200;
+    text-shadow: none;
+    text-align: center;
+}

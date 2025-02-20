@@ -1,0 +1,18 @@
+{
+    "tipos": [
+        { "id": 1, "value": "Filme" },
+        { "id": 2, "value": "Roteiro" },
+        { "id": 3, "value": "Trilha" },
+        { "id": 4, "value": "Foto" }
+    ],
+    "generos": [
+        { "id": 1, "value": "Drama" },
+        { "id": 2, "value": "Terror" },
+        { "id": 3, "value": "Comédia" }
+    ],
+    "areas": [
+        { "id": 1, "value": "Diretor" },
+        { "id": 2, "value": "Ator" },
+        { "id": 3, "value": "Fotógrafo" }
+    ]
+}

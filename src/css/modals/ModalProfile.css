@@ -1,0 +1,133 @@
+.cmp-modal-intern-profile {
+    background-color: transparent;
+    width: 40%;
+    height: 85%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: auto;
+    border-radius: 10px;
+}
+
+.cmp-modal-profile-main{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cmp-modal-profile{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 52%, #1C031B 100%);
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding-top: 15px;
+
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.384);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.cmp-modal-icon-close-profile {
+    background-color: transparent;
+    width: 108%;
+    height: 4%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    margin-left: 10%;
+}
+.cmp-modal-icon-close-profile span{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cmp-modal-icon-close-profile span:hover,
+.cmp-modal-icon-close-profile span:focus { color: brown; text-decoration: none; cursor: pointer; }
+
+.cmp-modal-profile-header{
+    background-color: transparent;
+    width: 80%;
+    height: 18%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-bottom: 1px solid white;
+}
+
+.cmp-modal-profile-body{
+    background-color: transparent;
+    width: 100%;
+    height: 25%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cmp-modal-profile-footer{
+    background-color: transparent;
+    width: 90%;
+    height: 54%;
+}
+
+.cmp-modal-icon-profile-header {
+    background-color: transparent;
+    height: 80%;
+    width: 18%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.cmp-modal-icon-profile {
+    color: white;
+    font-size: 280%;
+}
+
+
+.cmp-modal-profile-body h1{
+    margin-top: 0;
+
+    font-family: 'Akshar', sans-serif;
+    font-size: 120%;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 100;
+
+    text-shadow: 2px 2px black;
+}
+
+.cmp-modal-profile-body h2{
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Akshar', sans-serif;
+    font-size: 90%;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: 100;   
+
+    opacity: 0.5;
+}

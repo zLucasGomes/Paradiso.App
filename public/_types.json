@@ -1,0 +1,36 @@
+{
+    "tipos": [
+        { "id": 1, "value": "Filme" },
+        { "id": 2, "value": "Roteiro" },
+        { "id": 3, "value": "Trilha" },
+        { "id": 4, "value": "Foto" }
+    ],
+    "generos": [
+        { "id": 1, "value": "Drama" },
+        { "id": 2, "value": "Terror" },
+        { "id": 3, "value": "Comédia" },
+        { "id": 4, "value": "Ação" },
+        { "id": 5, "value": "Aventura" },
+        { "id": 6, "value": "Romance" },
+        { "id": 7, "value": "Ficção Científica" },
+        { "id": 8, "value": "Fantasia" },
+        { "id": 9, "value": "Documentário" },
+        { "id": 10, "value": "Suspense" },
+        { "id": 11, "value": "Musical" },
+        { "id": 12, "value": "Histórico" }
+    ],
+    "areas": [
+        { "id": 1, "value": "Diretor" },
+        { "id": 2, "value": "Ator" },
+        { "id": 3, "value": "Fotógrafo" },
+        { "id": 4, "value": "Editor" },
+        { "id": 5, "value": "Roteirista" },
+        { "id": 6, "value": "Produtor" },
+        { "id": 7, "value": "Técnico de Som" },
+        { "id": 8, "value": "Designer de Produção" },
+        { "id": 9, "value": "Cenógrafo" },
+        { "id": 10, "value": "Figurinista" },
+        { "id": 11, "value": "Maquiador" },
+        { "id": 12, "value": "Dublador" }
+    ]
+}

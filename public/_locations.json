@@ -1,0 +1,106 @@
+{
+    "locais": [
+        {
+            "id": 1,
+            "estado": "São Paulo",
+            "cidades": [
+                { "id": 1, "value": "São Vicente" },
+                { "id": 2, "value": "Santos" },
+                { "id": 3, "value": "São Paulo" },
+                { "id": 4, "value": "Campinas" },
+                { "id": 5, "value": "Sorocaba" }
+            ]
+        },
+        {
+            "id": 2,
+            "estado": "Rio de Janeiro",
+            "cidades": [
+                { "id": 1, "value": "Rio de Janeiro" },
+                { "id": 2, "value": "Niterói" },
+                { "id": 3, "value": "Nova Iguaçu" },
+                { "id": 4, "value": "Petrópolis" }
+            ]
+        },
+        {
+            "id": 3,
+            "estado": "Minas Gerais",
+            "cidades": [
+                { "id": 1, "value": "Belo Horizonte" },
+                { "id": 2, "value": "Uberlândia" },
+                { "id": 3, "value": "Contagem" },
+                { "id": 4, "value": "Juiz de Fora" },
+                { "id": 5, "value": "Betim" }
+            ]
+        },
+        {
+            "id": 4,
+            "estado": "Bahia",
+            "cidades": [
+                { "id": 1, "value": "Salvador" },
+                { "id": 2, "value": "Feira de Santana" },
+                { "id": 3, "value": "Vitória da Conquista" },
+                { "id": 4, "value": "Itabuna" }
+            ]
+        },
+        {
+            "id": 5,
+            "estado": "Paraná",
+            "cidades": [
+                { "id": 1, "value": "Curitiba" },
+                { "id": 2, "value": "Londrina" },
+                { "id": 3, "value": "Maringá" },
+                { "id": 4, "value": "Ponta Grossa" },
+                { "id": 5, "value": "Cascavel" }
+            ]
+        },
+        {
+            "id": 6,
+            "estado": "Rio Grande do Sul",
+            "cidades": [
+                { "id": 1, "value": "Porto Alegre" },
+                { "id": 2, "value": "Caxias do Sul" },
+                { "id": 3, "value": "Pelotas" },
+                { "id": 4, "value": "Santa Maria" }
+            ]
+        },
+        {
+            "id": 7,
+            "estado": "Pernambuco",
+            "cidades": [
+                { "id": 1, "value": "Recife" },
+                { "id": 2, "value": "Olinda" },
+                { "id": 3, "value": "Caruaru" },
+                { "id": 4, "value": "Petrolina" }
+            ]
+        },
+        {
+            "id": 8,
+            "estado": "Ceará",
+            "cidades": [
+                { "id": 1, "value": "Fortaleza" },
+                { "id": 2, "value": "Sobral" },
+                { "id": 3, "value": "Juazeiro do Norte" },
+                { "id": 4, "value": "Crato" }
+            ]
+        },
+        {
+            "id": 9,
+            "estado": "Amazonas",
+            "cidades": [
+                { "id": 1, "value": "Manaus" },
+                { "id": 2, "value": "Parintins" },
+                { "id": 3, "value": "Itacoatiara" }
+            ]
+        },
+        {
+            "id": 10,
+            "estado": "Goiás",
+            "cidades": [
+                { "id": 1, "value": "Goiânia" },
+                { "id": 2, "value": "Anápolis" },
+                { "id": 3, "value": "Aparecida de Goiânia" },
+                { "id": 4, "value": "Rio Verde" }
+            ]
+        }
+    ]
+}

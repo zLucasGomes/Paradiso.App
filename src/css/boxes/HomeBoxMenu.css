@@ -1,0 +1,176 @@
+.cmp-home-box-menu{
+    background-color: #181818;
+    width: 23%;
+    height: 96%;
+
+    border-radius: 10px;
+    box-shadow: rgb(0, 0, 0) 0px 3px 8px;
+    box-sizing: border-box;
+}
+
+.cmp-home-box-menu-intern{
+    background-color: transparent;
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cmp-home-box-menu-header{
+    background-color: transparent;
+    width: 85%;
+    height: 20%;
+    padding-top: 1.5%;    
+}
+
+.cmp-home-box-menu-body{
+    background-color: transparent;
+    width: 85%;
+    height: 65%;   
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+      
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.cmp-home-box-menu-footer{
+    background-color: transparent;
+    width: 100%;
+    height: 25%;     
+}
+
+.cmp-home-box-menu-footer-utils-logged{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.cmp-home-box-menu-footer-utils{
+    background-color: transparent;
+    width: 100%;
+    height: 40%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+.cmp-home-box-menu-footer-utils .cmp-btn-my-content{
+    height: 65%;
+    width: 65%;
+}
+
+.cmp-home-box-menu-footer-utils-menu{
+    background-color: transparent;
+    height: 60%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.cmp-home-box-menu-footer-utils-menu .cmp-text-h3{
+    background-color: transparent;
+    height: 45%;
+}
+
+.cmp-home-box-menu-footer-utils-menu .cmp-btn-bottom-double{
+    background-color: transparent;
+    height: 45%;
+}
+
+
+.btn-clear{    
+    background-color: brown;
+    width: 10%;
+    height: 65%;
+
+    border-radius: 8px;
+    border: 2px solid black;
+
+    margin-left: -5%;
+    font-size: 105%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: 0px 0px 5px black;
+}
+
+.btn-clear:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 3px rgba(255, 255, 255, 0.555);
+}
+
+
+
+.cmp-home-box-menu-footer-utils-unlogged{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.cmp-home-box-menu-footer-utils-btn-unlogged{
+    background-color: transparent;
+    height: 40%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.cmp-home-box-menu-footer-utils-menu-unlogged{
+    background-color: transparent;
+    height: 60%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.cmp-home-box-menu-footer-utils-menu-unlogged .cmp-text-h3{
+    background-color: transparent;
+    height: 45%;
+}
+
+.cmp-home-box-menu-footer-utils-menu-unlogged .cmp-btn-bottom{
+    background-color: transparent;
+    height: 100%;
+}
+
+.btn-clear-unlogged{    
+    background-color: brown;
+    width: 10%;
+    height: 65%;
+    margin-top: 6%;
+
+    border-radius: 8px;
+    border: 2px solid black;
+
+    margin-right: 10%;
+    font-size: 105%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-shadow: 0px 0px 5px black;
+}
+
+.btn-clear-unlogged:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 3px rgba(255, 255, 255, 0.555);
+}
+

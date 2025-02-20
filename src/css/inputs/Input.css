@@ -1,0 +1,276 @@
+.cmp-input-select{
+    background-color: #181818ea;
+    width: 85%;
+
+    font-family: 'Akshar', sans-serif;
+    font-size: 80%;
+    color: white;
+    letter-spacing: 1.5px;
+
+    border-radius: 20px;
+    border: none;
+}
+
+select:focus{
+    outline: none;
+}
+
+.cmp-input{
+    background-color: #181818ea;
+    width: 100%;
+    height: 10%;
+
+    color: white;
+    border: 1px solid white;
+
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    box-shadow: 0px 0px 10px black;
+}
+
+.cmp-input:hover{
+    box-shadow: 0px 0px 2px white;
+}
+
+.cmp-input-icon{
+    background-color: transparent;
+    height: 100%;
+    width: 11%;
+
+    color: white;
+
+    font-size: 100%;
+    opacity: 1;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cmp-input input{
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Akshar', sans-serif;
+    font-size: 80%;
+    color: white;
+    letter-spacing: 1.5px;
+
+    background-color: transparent;
+    height: 100%;
+    width: 85%;
+
+    border: none;
+    outline: none;
+}
+
+.cmp-input input::placeholder{
+    color: white;
+    font-size: 100%;
+    opacity: 0.5;
+    letter-spacing: 1.5px;
+}
+
+.cmp-input input:focus{ outline: none; background-color: transparent;}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: white;
+  transition: background-color 5000000s ease-in-out 0s;
+}
+
+[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 12px;
+    width: 12px;
+    background-image: url("../../images/x.png");
+    background-size: 12px 12px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+
+/* PWD */
+
+.cmp-input-pwd{
+    background-color: #252525;
+    width: 100%;
+    height: 8%;
+
+    color: white;
+    border: 1px solid white;
+
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    box-shadow: 0px 0px 10px black;
+}
+
+.cmp-input-pwd:hover{
+    box-shadow: 0px 0px 2px white;
+}
+
+.cmp-input-pwd-icon{
+    background-color: transparent;
+    height: 100%;
+    width: 11%;
+    margin-left: 1%;
+
+    color: white;
+
+    font-size: 100%;
+    opacity: 1;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cmp-input-pwd input{
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Akshar', sans-serif;
+    font-size: 80%;
+    color: white;
+    letter-spacing: 1.5px;
+
+    background-color: transparent;
+    height: 100%;
+    width: 78%;
+
+    border: none;
+    outline: none;
+}
+
+.cmp-input-pwd input::placeholder{
+    color: white;
+    font-size: 100%;
+    opacity: 0.5;
+    letter-spacing: 1.5px;
+}
+
+.cmp-input-pwd input:focus{ outline: none; background-color: transparent;}
+
+.cmp-input-pwd-icon-eye{
+    background-color: transparent;
+    width: 5%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+}
+
+
+.cmp-input-pwd input:focus{ outline: none; background-color: transparent;}
+
+
+
+/* TEXT AREA  */
+
+.cmp-input-textarea{
+    background-color: #181818ea;
+    width: 100%;
+    height: 50%;
+
+    color: white;
+    border: 1px solid white;
+
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.cmp-input-textarea-icon{
+    background-color: transparent;
+    height: 90%;
+    width: 11%;
+
+    font-size: 100%;
+    opacity: 0.5;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.cmp-input-textarea input{
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Akshar', sans-serif;
+    font-size: 80%;
+    color: white;
+    letter-spacing: 1.5px;
+
+    background-color: transparent;
+    height: 100%;
+    width: 85%;
+
+    border: none;
+    outline: none;
+}
+
+.cmp-textarea{
+    background-color: transparent;
+    resize: none;
+    border: none;
+    
+    color: white;
+
+    width: 85%;
+    height: 90%;
+
+    overflow-y: auto;
+
+    font-family: 'Akshar', sans-serif;
+    letter-spacing: 1.5px;
+}
+
+textarea:focus{
+    outline: none !important;
+    border: none;
+}
+
+textarea::placeholder{
+    color: white;
+    font-family: 'Akshar', sans-serif;
+    font-size: 100%;
+    opacity: 0.5;
+    letter-spacing: 1.5px;
+}
+
+
